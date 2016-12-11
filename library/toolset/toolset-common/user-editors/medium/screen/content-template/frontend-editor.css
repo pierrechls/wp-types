@@ -1,0 +1,30 @@
+.toolset-editors-select-preview-post {
+    font-family: Helvetica, Verdana, sans-serif !important;
+    float: left !important;
+    padding-right: 20px !important;
+    color: #333;
+}
+#wpv-ct-preview-post {
+    width: 170px !important;
+    font-size: 16px !important;
+    line-height: 32px !important;
+    height: 32px !important;
+    display: inline !important;
+}
+
+.wpv-ct-preview-post-help {
+	margin-left: 5px;
+	color: #00A0D2;
+	cursor: pointer;
+}
+
+.wpv-ct-preview-post-help:hover {
+	color: #1E8CBE;
+}
+
+.fl-builder-actions .fl-builder-button.fl-builder-discard-button,
+.fl-builder-actions .fl-builder-button.fl-builder-draft-button {
+    display: none !important;
+}
+
+

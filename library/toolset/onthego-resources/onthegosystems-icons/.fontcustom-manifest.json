@@ -1,0 +1,200 @@
+{
+  "checksum": {
+    "previous": "91cc76c6ec19609541b007a2169151af12744e59994efb1ea941131d51975f81",
+    "current": "91cc76c6ec19609541b007a2169151af12744e59994efb1ea941131d51975f81"
+  },
+  "fonts": [
+    "fonts/onthegosystems-icons_91cc76c6ec19609541b007a2169151af.ttf",
+    "fonts/onthegosystems-icons_91cc76c6ec19609541b007a2169151af.svg",
+    "fonts/onthegosystems-icons_91cc76c6ec19609541b007a2169151af.woff",
+    "fonts/onthegosystems-icons_91cc76c6ec19609541b007a2169151af.eot"
+  ],
+  "glyphs": {
+    "access": {
+      "codepoint": 61712,
+      "source": "vectors/access.svg"
+    },
+    "access-logo": {
+      "codepoint": 61713,
+      "source": "vectors/access-logo.svg"
+    },
+    "bootstrap": {
+      "codepoint": 61714,
+      "source": "vectors/bootstrap.svg"
+    },
+    "bootstrap-logo": {
+      "codepoint": 61715,
+      "source": "vectors/bootstrap-logo.svg"
+    },
+    "bootstrap-original-logo": {
+      "codepoint": 61750,
+      "source": "vectors/bootstrap-original-logo.svg"
+    },
+    "bootstrap-pagination": {
+      "codepoint": 61749,
+      "source": "vectors/bootstrap-pagination.svg"
+    },
+    "breadcrumbs": {
+      "codepoint": 61739,
+      "source": "vectors/breadcrumbs.svg"
+    },
+    "btn-dropdowns": {
+      "codepoint": 61740,
+      "source": "vectors/btn-dropdowns.svg"
+    },
+    "buttons": {
+      "codepoint": 61741,
+      "source": "vectors/buttons.svg"
+    },
+    "conditional-alert": {
+      "codepoint": 61730,
+      "source": "vectors/conditional-alert.svg"
+    },
+    "conditional-if": {
+      "codepoint": 61731,
+      "source": "vectors/conditional-if.svg"
+    },
+    "cred": {
+      "codepoint": 61716,
+      "source": "vectors/cred.svg"
+    },
+    "cred-logo": {
+      "codepoint": 61717,
+      "source": "vectors/cred-logo.svg"
+    },
+    "input-groups": {
+      "codepoint": 61742,
+      "source": "vectors/input-groups.svg"
+    },
+    "labels": {
+      "codepoint": 61743,
+      "source": "vectors/labels.svg"
+    },
+    "layouts": {
+      "codepoint": 61718,
+      "source": "vectors/layouts.svg"
+    },
+    "layouts-genesis": {
+      "codepoint": 61737,
+      "source": "vectors/layouts-genesis.svg"
+    },
+    "layouts-genesis-logo": {
+      "codepoint": 61735,
+      "source": "vectors/layouts-genesis-logo.svg"
+    },
+    "layouts-logo": {
+      "codepoint": 61719,
+      "source": "vectors/layouts-logo.svg"
+    },
+    "list-group": {
+      "codepoint": 61744,
+      "source": "vectors/list-group.svg"
+    },
+    "module": {
+      "codepoint": 61720,
+      "source": "vectors/module.svg"
+    },
+    "module-logo": {
+      "codepoint": 61721,
+      "source": "vectors/module-logo.svg"
+    },
+    "navbar": {
+      "codepoint": 61745,
+      "source": "vectors/navbar.svg"
+    },
+    "packager": {
+      "codepoint": 61728,
+      "source": "vectors/packager.svg"
+    },
+    "packager-logo": {
+      "codepoint": 61729,
+      "source": "vectors/packager-logo.svg"
+    },
+    "panels": {
+      "codepoint": 61747,
+      "source": "vectors/panels.svg"
+    },
+    "toolset": {
+      "codepoint": 61738,
+      "source": "vectors/toolset.svg"
+    },
+    "toolset-genesis-logo": {
+      "codepoint": 61736,
+      "source": "vectors/toolset-genesis-logo.svg"
+    },
+    "toolset-logo": {
+      "codepoint": 61722,
+      "source": "vectors/toolset-logo.svg"
+    },
+    "toolset-map": {
+      "codepoint": 61733,
+      "source": "vectors/toolset-map.svg"
+    },
+    "toolset-map-logo": {
+      "codepoint": 61732,
+      "source": "vectors/toolset-map-logo.svg"
+    },
+    "types": {
+      "codepoint": 61723,
+      "source": "vectors/types.svg"
+    },
+    "types-logo": {
+      "codepoint": 61724,
+      "source": "vectors/types-logo.svg"
+    },
+    "views": {
+      "codepoint": 61725,
+      "source": "vectors/views.svg"
+    },
+    "views-logo": {
+      "codepoint": 61726,
+      "source": "vectors/views-logo.svg"
+    },
+    "wells": {
+      "codepoint": 61748,
+      "source": "vectors/wells.svg"
+    },
+    "wpml-logo": {
+      "codepoint": 61727,
+      "source": "vectors/wpml-logo.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": "fontcustom.yml",
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "file_hash": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "onthegosystems-icons",
+    "force": false,
+    "input": {
+      "templates": "vectors",
+      "vectors": "vectors"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "css",
+      "fonts": "fonts",
+      "preview": "fonts"
+    },
+    "preprocessor_path": null,
+    "project_root": {
+      "pwd": null
+    },
+    "quiet": false,
+    "templates": [
+      "css",
+      "scss",
+      "preview"
+    ]
+  },
+  "templates": [
+    "css/onthegosystems-icons.css",
+    "css/_onthegosystems-icons.scss",
+    "fonts/onthegosystems-icons-preview.html"
+  ]
+}

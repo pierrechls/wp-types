@@ -1,0 +1,16 @@
+/* todo generalise, so it's not only for content template */
+body.toolset_page_ct-editor .fl-builder-admin-tabs,
+body.toolset_page_ct-editor .fl-builder-admin-ui h3 {
+    display:none;
+}
+
+body.toolset_page_ct-editor .toolset-user-editors-beaver-backend{
+    background: #fff;
+    padding: 20px;
+    text-align:center;
+}
+
+body.toolset_page_ct-editor .toolset-user-editors-beaver-spinner {
+    height: 30px;
+    display: none;
+}
