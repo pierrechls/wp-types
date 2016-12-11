@@ -1,6 +1,6 @@
 # Toolset Types
 
-> The complete and reliable WordPress plugin for managing custom post types, custom taxonomies and custom fields.
+> The complete and reliable WordPress plugin for managing custom post types, custom taxonomies and custom fields. [https://wordpress.org/plugins/types/](https://wordpress.org/plugins/types/)
 
 Types let's you customize the WordPress admin by adding content types, custom fields and taxonomies. You will be able to craft the WordPress admin and turn it into your very own content management system.
 
